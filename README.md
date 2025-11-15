@@ -50,5 +50,4 @@ Caching with @st.cache_data
 
 Database integration
 
-Async data loading
-[![Open in Streamlit](https://world-population-dashboard-gr6gwmr4gmgiqelrwl6b2w.streamlit.app/)
+[Open in Streamlit](https://world-population-dashboard-gr6gwmr4gmgiqelrwl6b2w.streamlit.app/)
